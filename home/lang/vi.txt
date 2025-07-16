@@ -1,1 +1,409 @@
+#Tệp bản địa hóa KEmulator nnmod
+#Tiếng Việt
+#bởi Gemini
 
+#Khung chính
+
+MENU_MIDLET=Midlet
+MENU_TOOL=Công cụ
+MENU_VIEW=Xem
+
+MENU_MIDLET_LOAD_JAR=Tải jar...
+MENU_MIDLET_LOAD_AUTO_PLAY=Tải bản ghi tự động phát
+MENU_MIDLET_RECENTLY=Các tệp jar gần đây
+MENU_MIDLET_2D_ENGINE=Công cụ 2D
+MENU_MIDLET_M3G_ENGINE=Công cụ M3G
+MENU_MIDLET_M3D_ENGINE=Công cụ MascotCapsule
+
+MENU_MIDLET_JAD=Mở JAD bằng Notepad
+MENU_MIDLET_SUSPEND=Tạm dừng
+MENU_MIDLET_RESUME=Tiếp tục
+MENU_MIDLET_PAUSE_STEP=Tạm dừng/Từng bước
+MENU_MIDLET_PLAY_RESUME=Phát/Tiếp tục
+
+MENU_MIDLET_RESTART=Khởi động lại
+MENU_MIDLET_EXIT=Thoát
+
+MENU_VIEW_INFO=Thông tin
+MENU_VIEW_XRAY=Chế độ xem X-Ray
+MENU_VIEW_TOP=Luôn ở trên cùng
+MENU_VIEW_ROTATE=Xoay màn hình
+MENU_VIEW_FORCE_PAINT=Buộc vẽ
+MENU_VIEW_ROTATE_90=Xoay 90 độ
+
+MENU_VIEW_KEYPAD=Bàn phím
+MENU_VIEW_WATCHES=Theo dõi
+MENU_VIEW_PROFILER=Trình phân tích
+MENU_VIEW_METHODS=Phương thức
+MENU_VIEW_MEMORY=Chế độ xem bộ nhớ
+MENU_VIEW_M3GVIEW=Chế độ xem M3G
+MENU_VIEW_SMS=Bảng điều khiển SMS
+MENU_VIEW_SENSOR=Trình mô phỏng cảm biến
+MENU_VIEW_LOG=Nhật ký
+
+MENU_VIEW_OPTIONS=Tùy chọn...
+MENU_VIEW_HELP=Giới thiệu
+
+MENU_TOOL_ZOOMIN=Phóng to
+MENU_TOOL_ZOOMOUT=Thu nhỏ
+MENU_TOOL_INTERPOSE=Nội suy
+MENU_TOOL_INTER_NEAREST=Lân cận gần nhất
+MENU_TOOL_INTER_HIGH=Chất lượng cao
+MENU_TOOL_INTER_LOW=Chất lượng thấp
+
+MENU_TOOL_RESIZE_MODE=Hiển thị
+MENU_TOOL_RESIZE_MODE_CENTER=Không co giãn thích ứng
+MENU_TOOL_RESIZE_MODE_SYNC=Đồng bộ với kích thước cửa sổ
+MENU_TOOL_RESIZE_MODE_FILL=Vừa với cửa sổ
+MENU_TOOL_RESIZE_MODE_FILL_INT=Vừa với cửa sổ (tỷ lệ nguyên)
+MENU_TOOL_RESIZE_KEEP_PROPORTIONS=Giữ tỷ lệ khung hình
+MENU_TOOL_RESIZE_RESET=Đặt lại kích thước cửa sổ
+MENU_TOOL_RESIZE_SET=Đặt kích thước màn hình
+
+MENU_TOOL_SPEEDUP=Tăng tốc
+MENU_TOOL_SPEEDDOWN=Giảm tốc
+
+MENU_TOOL_RECORD_KEY=Ghi lại phím
+MENU_TOOL_AUTO_PLAY=Bật tự động phát
+MENU_TOOL_CAPTURE_FILE=Chụp vào tệp
+MENU_TOOL_CAPTURE_CLIP=Chụp vào Clipboard
+
+MENU_TOOL_SHOW_TRACK_INFO=Hiển thị thông tin theo dõi
+
+MENU_TOOL_QWERTY_MODE=Chế độ QWERTY
+MENU_TOOL_FPS_MODE=Chế độ FPS
+MENU_TOOL_DISABLE_NETWORK_ACCESS=Tắt truy cập mạng
+
+#Thanh lệnh
+
+MAIN_INFO_BAR_UNLOADED=CHƯA TẢI
+MAIN_INFO_BAR_RUNNING=ĐANG CHẠY
+MAIN_INFO_BAR_PAUSED=ĐÃ TẠM DỪNG
+
+#Hộp thoại
+
+SAVE_TO_FILE=Lưu vào tệp
+OPEN_JAR_FILE=Mở một tệp jar
+OPEN_REC_FILE=Mở một tệp ghi
+LINK_JAR_FILE=Chỉ định một tệp jar
+
+DIALOG_OK=OK
+DIALOG_CANCEL=Hủy
+DIALOG_SET=Đặt
+DIALOG_YES=Có
+DIALOG_NO=Không
+
+#Hiển thị thông tin
+
+INFO_FRAME_POS=Vị trí
+INFO_FRAME_COLOR=Màu sắc
+INFO_FRAME_RECT=H
+
+#Khung giới thiệu
+
+ABOUT_FRAME_TITLE=Giới thiệu & Trợ giúp
+ABOUT_INFO_EMULATOR=Trình giả lập game di động
+ABOUT_INFO_APIS=Các API được hỗ trợ
+
+ABOUT_AUTHOR=Tác giả
+ABOUT_CHACK_NEW_VER=Kiểm tra phiên bản mới
+ABOUT_ONLINE_MANUAL=Hướng dẫn trực tuyến
+
+#Bàn phím
+
+KEYPAD_FRAME_TITLE=Bàn phím
+KEYPAD_FRAME_LSK=Phím mềm trái
+KEYPAD_FRAME_RSK=Phím mềm phải
+
+#Khung nhật ký
+
+LOG_FRAME_TITLE=Nhật ký
+
+#Chế độ xem M3G
+
+M3G_VIEW_TITLE = Chế độ xem M3G
+M3G_VIEW_CAMERA = Máy ảnh
+M3G_VIEW_LIGHT = Ánh sáng
+M3G_VIEW_DISPLAY = Hiển thị
+
+M3G_VIEW_LIGHT_SCENE = Đồ họa cảnh
+M3G_VIEW_LIGHT_VIEW = Ánh sáng người xem
+M3G_VIEW_LIGHT_SETTING = Cài đặt ánh sáng
+
+M3G_VIEW_CAMERA_ORBIT = Quỹ đạo
+M3G_VIEW_CAMERA_PAN = Lia
+M3G_VIEW_CAMERA_DOLLY = Di chuyển
+M3G_VIEW_CAMERA_ZOOM = Thu phóng
+M3G_VIEW_CAMERA_PROJECTION = Chế độ chiếu
+M3G_VIEW_CAMERA_PERSPECTIVE = Chiếu phối cảnh
+M3G_VIEW_CAMERA_PARALLEL = Chiếu song song
+
+M3G_VIEW_CAMERA_CLIP_PLANES = Mặt phẳng cắt
+M3G_VIEW_CAMEAR_FIELD_OF_VIEW = Trường nhìn
+M3G_VIEW_CAMEAR_POSITION = Vị trí máy ảnh
+M3G_VIEW_CAMEAR_RESET = Đặt lại máy ảnh
+
+M3G_VIEW_DISPLAY_COORDINATE = Trục tọa độ
+M3G_VIEW_DISPLAY_SHOW_GRID = Hiển thị lưới
+M3G_VIEW_DISPLAY_SHOW_XRAY = Hiển thị X-ray
+M3G_VIEW_DISPLAY_UPDATE_WORLD=Cập nhật thế giới
+
+#Chế độ xem bộ nhớ
+
+MEMORY_VIEW_TITLE=Chế độ xem bộ nhớ
+MEMORY_VIEW_UPDATE=Cập nhật
+MEMORY_VIEW_AUTO_UPDATE=Tự động cập nhật
+MEMORY_VIEW_BYTECODE_SIZE=Kích thước mã byte:
+MEMORY_VIEW_TOTALMEM_SIZE=Tổng bộ nhớ đã sử dụng:
+MEMORY_VIEW_OBJECT_SIZE=Kích thước đối tượng:
+MEMORY_VIEW_MAX_OBJECT_SIZE=Kích thước đối tượng tối đa:
+MEMORY_VIEW_INTERVAL=Khoảng thời gian (mili giây):
+
+MEMORY_VIEW_IMAGES=Hình ảnh
+MEMORY_VIEW_SOUNDS=Âm thanh
+
+MEMORY_VIEW_ZOOM=Thu phóng:
+MEMORY_VIEW_SORT=Sắp xếp:
+MEMORY_VIEW_SIZE=Kích thước
+MEMORY_VIEW_ASCEND=Tăng dần
+MEMORY_VIEW_IMAGES_DRAWN=Đã sử dụng
+MEMORY_VIEW_UNUSED_REGION=Vùng đã sử dụng
+MEMORY_VIEW_RESET_IMAGE=Đặt lại mức sử dụng
+MEMORY_VIEW_IMAGE_NEVER_DRAW=Chưa sử dụng
+MEMORY_VIEW_RELEASED_IMAGES=Đã giải phóng
+MEMORY_VIEW_CLEAR_RELEASED_IMAGES=Xóa hình ảnh đã giải phóng
+
+MEMORY_VIEW_SORT_REFERENCE=Tham chiếu
+MEMORY_VIEW_SORT_SIZE=Kích thước
+MEMORY_VIEW_SORT_DRAW_COUNT=Số lần vẽ
+
+MEMORY_VIEW_SAVE_ONE=Xuất hình ảnh đã chọn
+MEMORY_VIEW_SAVE_TO_FILE=Lưu vào tệp
+MEMORY_VIEW_SAVE_ALL=Xuất tất cả hình ảnh
+MEMORY_VIEW_CHOOSE_DIRECTORY=Chọn một thư mục
+
+MEMORY_VIEW_SOUND_START=Bắt đầu
+MEMORY_VIEW_SOUND_PAUSE=Tạm dừng
+MEMORY_VIEW_SOUND_STOP=Dừng
+MEMORY_VIEW_SOUND_VOLUME=Âm lượng:
+MEMORY_VIEW_SOUND_PROGRESS=Tiến trình:
+MEMORY_VIEW_SOUND_EXPORT=Xuất
+
+MEMORY_VIEW_INSTANCE=Phiên bản
+MEMORY_VIEW_CONTENT_TYPE=Loại nội dung
+MEMORY_VIEW_STATE=Trạng thái
+MEMORY_VIEW_LOOP_COUNT=Số lần lặp
+MEMORY_VIEW_DATA_SIZE=Kích thước dữ liệu
+
+MEMORY_VIEW_CLASS=Lớp
+MEMORY_VIEW_INSTANCES=Các phiên bản
+MEMORY_VIEW_TOTAL_HEAP_SIZE=Tổng kích thước heap
+MEMORY_VIEW_REFERENCE=Tham chiếu
+
+#Bảng điều khiển SMS
+
+SMS_CONSOLE_TITLE=Bảng điều khiển SMS
+
+SMS_CONSOLE_SEND_TO=Gửi đến midlet
+SMS_CONSOLE_CLEAR=Xóa
+SMS_CONSOLE_SEND=Gửi
+SMS_CONSOLE_RECEIVE=Nhận từ midlet
+SMS_CONSOLE_BLOCK=Chặn tin nhắn đã nhận
+
+#Khung phương thức
+
+METHOD_FRAME_TITLE=Phương thức
+
+METHOD_FRAME_RESET_CALLS=Đặt lại các cuộc gọi
+METHOD_FRAME_EXPORT_BYTECODE=Xuất mã byte
+METHOD_FRAME_SAVE_BYTECODE=Lưu tất cả mã byte của phương thức:
+METHOD_FRAME_SEARCH=Tìm kiếm
+
+#Khung theo dõi
+
+WATCHES_FRAME_TITLE=Trình theo dõi lớp
+WATCHES_FRAME_PROFILER=Màn hình phân tích
+
+#Khung tùy chọn
+
+OPTION_FRAME_TITLE=Tùy chọn & Thuộc tính
+
+OPTION_TAB_CUSTOM=Chung
+OPTION_TAB_KEYMAP=Bản đồ phím
+OPTION_TAB_FONT=Phông chữ
+OPTION_TAB_SYSTEM=Hệ thống
+OPTION_TAB_COREAPI=CoreAPI
+OPTION_TAB_DISABLE_API=Tắt các API
+OPTION_TAB_RECORDS=Bản ghi
+OPTION_TAB_NETWORK=Mạng
+OPTION_TAB_MEDIA=Phương tiện
+OPTION_TAB_M3G=M3G
+OPTION_TAB_MASCOT=MascotCapsule
+OPTION_TAB_SECURITY=Bảo mật
+OPTION_TAB_SYSTEM_PROPERTIES=Thuộc tính
+
+OPTION_CUSTOM_DEVICE=Chọn thiết bị:
+OPTION_CUSTOM_ENCODING=Mã hóa mặc định:
+OPTION_CUSTOM_MAX_FPS=FPS tối đa:
+
+OPTION_CUSTOM_PROPERTIES=Thuộc tính tùy chỉnh
+OPTION_CUSTOM_SCREEN_WIDTH=Chiều rộng màn hình:
+OPTION_CUSTOM_SCREEN_HEIGHT=Chiều cao màn hình:
+OPTION_CUSTOM_KEY_LSK=Phím mềm trái:
+OPTION_CUSTOM_KEY_RSK=Phím mềm phải:
+OPTION_CUSTOM_KEY_MIDDLE=Bắn/Giữa:
+OPTION_CUSTOM_KEY_UP=Lên:
+OPTION_CUSTOM_KEY_DOWN=Xuống:
+OPTION_CUSTOM_KEY_LEFT=Trái:
+OPTION_CUSTOM_KEY_RIGHT=Phải:
+OPTION_CUSTOM_LOCALE=Ngôn ngữ MIDP:
+
+OPTION_KEYMAP_CONTROLLER=Bộ điều khiển:
+OPTION_KEYMAP_REFRESH=Làm mới
+OPTION_KEYMAP_KEY_CACHE=Bật bộ đệm phím
+OPTION_KEYMAP_LSK=Phím mềm trái:
+OPTION_KEYMAP_RSK=Phím mềm phải:
+OPTION_KEYMAP_NUM_1=Số_1:
+OPTION_KEYMAP_NUM_2=Số_2:
+OPTION_KEYMAP_NUM_3=Số_3:
+OPTION_KEYMAP_NUM_4=Số_4:
+OPTION_KEYMAP_NUM_5=Số_5:
+OPTION_KEYMAP_NUM_6=Số_6:
+OPTION_KEYMAP_NUM_7=Số_7:
+OPTION_KEYMAP_NUM_8=Số_8:
+OPTION_KEYMAP_NUM_9=Số_9:
+OPTION_KEYMAP_NUM_0=Số_0:
+OPTION_KEYMAP_KEY_*=Phím *:
+OPTION_KEYMAP_KEY_#=Phím #:
+OPTION_KEYMAP_PAD_LEFT=Pad_Trái:
+OPTION_KEYMAP_PAD_RIGHT=Pad_Phải:
+OPTION_KEYMAP_PAD_UP=Pad_Lên:
+OPTION_KEYMAP_PAD_DOWN=Pad_Xuống:
+OPTION_KEYMAP_PAD_MIDDLE=Pad_Giữa:
+OPTION_KEYMAP_CLEAR=Xóa
+OPTION_KEYMAP_RESET=Đặt lại
+
+OPTION_FONT_DEFAULT_FONT=Phông chữ mặc định:
+OPTION_FONT_LARGE_SIZE=Kích thước lớn:
+OPTION_FONT_MIDDLE_SIZE=Kích thước trung bình:
+OPTION_FONT_SMALL_SIZE=Kích thước nhỏ:
+OPTION_FONT_TEST_TEXT=Văn bản kiểm tra:
+OPTION_FONT_TEST_TEXT_TXT=Đây là một ví dụ.
+
+OPTION_SYSTEM_UI_LANGUAGE=Ngôn ngữ giao diện người dùng:
+OPTION_SYSTEM_UPDATE_BRANCH=Nhánh cập nhật:
+OPTION_SYSTEM_AUTO_UPDATES=Tự động kiểm tra cập nhật
+OPTION_SYSTEM_XRAY_BG=Chế độ xem X-Ray: Hình ảnh chồng chéo
+OPTION_SYSTEM_XRAY_CLIP=Chế độ xem X-Ray: Hiển thị vùng cắt hình ảnh
+OPTION_SYSTEM_INFO_COLOR=Chế độ xem thông tin: Hiển thị màu trong (R,G,B)
+OPTION_SYSTEM_RELEASED_IMG=Chế độ xem bộ nhớ: Ghi lại hình ảnh đã giải phóng
+OPTION_SYSTEM_AUTOGEN_JAD=Tự động tạo tệp Jad với "KEmu-Platform"
+OPTION_SYSTEM_TRACK_NEW=Theo dõi các hoạt động "new/new[]..."
+OPTION_SYSTEM_TRACK_METHOD=Theo dõi các cuộc gọi phương thức
+OPTION_SYSTEM_DISCORD_RICHPRESENCE=Trạng thái Discord Rich Presence
+OPTION_SYSTEM_AWT_ANTIALIASING=Vẽ mượt AWT
+OPTION_SYSTEM_TEXT_ANTIALIASING=Khử răng cưa văn bản
+OPTION_SYSTEM_FPS_COUNT=Bộ đếm FPS
+
+OPTION_COREAPI_VIBRATION=Bật API rung
+OPTION_COREAPI_KEY_REPEAT=Bật Canvas.keyRepeated(int)
+OPTION_COREAPI_FULLSCREEN=Bỏ qua Canvas.setFullScreenMode(boolean)
+OPTION_COREAPI_NO_NETWORK=Hạn chế kết nối mạng
+OPTION_COREAPI_SYNC_KEYEVENTS=Đồng bộ hóa các sự kiện phím
+OPTION_COREAPI_SOFTKEY_FIX=Gửi keyPressed với commandAction
+OPTION_COREAPI_IGNORE_REGION_REPAINT=Luôn vẽ lại toàn bộ màn hình
+OPTION_COREAPI_KEYPRESS_ON_REPEAT=Gửi keyPressed khi lặp lại
+OPTION_COREAPI_FORCE_SERVICE_REPAINTS=Buộc vẽ trên serviceRepaints()
+OPTION_COREAPI_POINTER_EVENTS=Giá trị trả về của Canvas.hasPointerEvents()
+OPTION_COREAPI_ASYNC_FLUSH=Xả không đồng bộ
+
+OPTION_RECORDS_RMS_FOLDER=Thư mục RMS:
+OPTION_RECORDS_RMS_TEXT=Tất cả bản ghi trong midlet hiện tại:
+OPTION_RECORDS_SELECT_ALL=Chọn tất cả
+OPTION_RECORDS_CLEAR_RECORD=Xóa các bản ghi đã chọn
+OPTION_RECORDS_OPEN_DIRECTORY=Chọn một thư mục cho rms
+OPTION_RECORDS_CHOOSE_DIR=Chọn một thư mục
+
+OPTION_NETWORK_PROXY=Proxy
+OPTION_NETWORK_PROXY_TYPE=Loại Proxy:
+OPTION_NETWORK_HOST=Máy chủ:
+OPTION_NETWORK_PORT=Cổng:
+OPTION_NETWORK_USERNAME=Tên người dùng:
+OPTION_NETWORK_PASSWORD=Mật khẩu:
+OPTION_NETWORK_DOMAIN=Miền:
+OPTION_NETWORK_CONNECT=Kết nối
+
+OPTION_NETWORK_PROXY_TEST=Kiểm tra Proxy
+OPTION_NETWORK_PROXY_EMPTY=Máy chủ proxy trống!
+OPTION_NETWORK_PROXY_UNIMP=Kiểm tra proxy đang được triển khai!
+
+OPTION_MEDIA_VLC_DIR=Đường dẫn VLC
+OPTION_MEDIA_VMS=Tìm kiếm VirtualMIDISynth làm thiết bị MIDI
+OPTION_MEDIA_GLOBAL_MIDI=Chỉ cho phép phát lại một MIDI tại một thời điểm (giảm độ trễ)
+OPTION_MEDIA_REOPEN_MIDI=Mở lại thiết bị MIDI mỗi lần
+OPTION_MEDIA_DUMP=Bật xuất phương tiện (sử dụng bộ nhớ cao hơn)
+OPTION_MEDIA_OTT=Phát lại âm báo Nokia (không ổn định)
+
+OPTION_M3G_LWJGL_SETTINGS=Cài đặt LWJGL
+OPTION_M3G_IGNORE_OVERWRITE=Bỏ qua gợi ý OVERWRITE
+OPTION_M3G_FORCE_PERSPECTIVE_CORRECTION=Buộc hiệu chỉnh phối cảnh
+OPTION_M3G_DISABLE_LIGHT_CLAMPING=Tắt kẹp sáng
+OPTION_M3G_FLUSH_IMMEDIATELY=Xả nội dung ngay lập tức (chậm!)
+OPTION_M3G_THREAD=M3G đơn luồng
+
+OPTION_M3G_AA=Khử răng cưa:
+OPTION_M3G_APP_CONTROLLED=Do ứng dụng kiểm soát
+OPTION_M3G_FORCE_OFF=Buộc tắt
+OPTION_M3G_FORCE_ON=Buộc bật
+
+OPTION_M3G_TEXTURE_FILTER=Bộ lọc kết cấu:
+OPTION_M3G_FORCE_NEAREST=Buộc lân cận gần nhất
+OPTION_M3G_FORCE_LINEAR=Buộc tuyến tính
+
+OPTION_M3G_MIPMAPPING=Mipmapping:
+OPTION_M3G_FORCE_BILINEAR=Buộc song tuyến tính
+OPTION_M3G_FORCE_TRILINEAR=Buộc ba tuyến tính
+OPTION_M3G_FORCE_ANISO_2X=Buộc bất đẳng hướng 2x
+OPTION_M3G_FORCE_ANISO_4X=Buộc bất đẳng hướng 4x
+OPTION_M3G_FORCE_ANISO_8X=Buộc bất đẳng hướng 8x
+OPTION_M3G_FORCE_ANISO_16X=Buộc bất đẳng hướng 16x
+
+OPTION_MASCOT_NO_2D_MIXING=Không trộn 2D
+OPTION_MASCOT_IGNORE_BACKGROUND=Bỏ qua nền
+OPTION_MASCOT_TEXTURE_FILTER=Bộ lọc kết cấu
+OPTION_MASCOT_BACKGROUND_FILTER=Bộ lọc nền
+
+OPTION_SECURITY_ENABLE=Bật bảo mật
+OPTION_SECURITY_PERMISSIONS=Quyền
+
+#Thông báo
+
+MESSAGE_BOX_TITLE=Cảnh báo KEmulator
+
+LOAD_CLASSES_ERROR=Tải các lớp thất bại!! Vui lòng kiểm tra tệp jar đầu vào hoặc classpath.
+LOAD_MIDLET_ERROR=Không thể tìm thấy lớp MIDlet. Vui lòng kiểm tra jad hoặc sử dụng tham số -midlet.
+FAIL_LAUNCH_MIDLET=Không thể khởi chạy lớp MIDlet:
+
+LOAD_ZIP_ERROR=Tệp đầu vào không phải là kho lưu trữ JAR hoặc ZIP.
+
+LOAD_GDIPLUS_ERROR=Không thể tải "gdiplus.dll"!!! Vui lòng tải xuống và sao chép vào đường dẫn %system32%.
+
+PLATFORMREQUEST_ALERT=Ứng dụng muốn mở URL
+PLATFORMREQUEST_VLC_ALERT=Ứng dụng muốn mở URL trong VLC
+
+PERMISSION_CAMERA=Cho phép ứng dụng sử dụng máy ảnh?
+
+SECURITY_ALERT_TITLE=Bảo mật
+
+SCREEN_SIZE_DIALOG_TITLE=Đặt kích thước màn hình
+
+START_MIDLET_CHOICE_TITLE=Chọn MIDlet để chạy
+
+UPDATE_TITLE=Cập nhật KEmulator
+START_AUTO_UPDATE_TEXT=Bạn có muốn nhận cập nhật tự động không?
+UPDATE_ALREADY_LATEST_TEXT=Bạn đã có phiên bản mới nhất của KEmulator.
+UPDATE_AVAILABLE_TEXT=Có phiên bản mới.\nBạn có muốn tải xuống không?
+
+LCDUI_ALERT_DISMISS_COMMAND=OK
+LCDUI_LIST_SELECT_COMMAND=Chọn
+LCDUI_MENU_COMMAND=Menu
